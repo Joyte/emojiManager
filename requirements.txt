@@ -1,0 +1,5 @@
+discord
+fastapi
+python-dotenv
+uvicorn
+jinja2
